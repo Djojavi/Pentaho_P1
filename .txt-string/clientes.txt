@@ -1,0 +1,11 @@
+nombre;apellido;email;ciudad;telefono
+  ANA  ;  GARCIA  ;  Ana.Garcia@GMAIL.COM  ;  quito  ;  0991234567  
+LUIS;martinez;LUIS.martinez@hotmail.com;GUAYAQUIL;099-876-5432
+  carlos  ;  LOPEZ  ;carlos.lopez@Yahoo.COM;  Cuenca  ;  0987654321
+MARIA;  rodriguez  ;maria.Rodriguez@gmail.com;QUITO;(099)1122334
+  pedro;TORRES;  PEDRO.torres@Outlook.com  ;guayaquil;099 555 6677
+ANA;  GARCIA  ;ana.garcia2@gmail.com;  CUENCA  ;0993344556
+  JORGE  ;morales;Jorge.Morales@YAHOO.COM;quito;  099-667-7889  
+lucia;  PACHECO  ;  LUCIA.pacheco@hotmail.COM;  GUAYAQUIL  ;0991122003
+  ROBERTO;diaz;roberto.Diaz@gmail.com;cuenca;099(334)4556
+SOFIA  ;  VEGA  ;sofia.vega@OUTLOOK.com;  Quito  ;  099 778 9900
