@@ -1,3 +1,5 @@
+Autor: Donoban Ramón
+
 ## Descripción
 
 Esta transformación lee un archivo **Excel (.xlsx)** con datos de clientes que se encuentran desordenados, por ejemplo con espacios sobrantes y uso incorrecto de mayúsculas y minúsculas.  
