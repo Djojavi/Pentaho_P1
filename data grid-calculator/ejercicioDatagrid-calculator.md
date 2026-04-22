@@ -13,7 +13,7 @@ Para ejemplicar estos componentes se simulara un conjunto de ventas y se calcula
 
 ## Flujo de la transformación
 
-## 🔢 Paso 1: Crear transformación
+## Paso 1: Crear transformación
 
 1. Abrir Pentaho Spoon  
 2. Ir a: File -> New -> Transformation
@@ -24,12 +24,14 @@ Para ejemplicar estos componentes se simulara un conjunto de ventas y se calcula
 
 ### Paso 2: Definir estructura (Meta)
 
+
 Agregar los siguientes campos:
 | Campo    | Tipo   |
 |----------|--------|
 | producto | String |
 | cantidad | Integer|
 | precio   | Number |
+
 
 ![alt text](image-1.png)
 
@@ -67,7 +69,7 @@ Agregar componente:
 
 ## Paso 6: Ejecutar
 
-1. Click en ▶️ (Run)
+1. Click en (Run)
 2. Revisar salida en consola
 
 ![alt text](image-6.png)
