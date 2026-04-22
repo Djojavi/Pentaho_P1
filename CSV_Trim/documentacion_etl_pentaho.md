@@ -22,9 +22,7 @@ El flujo de transformación está compuesto por una secuencia lineal de pasos qu
 ---
 
 ## 🖼️ Espacio para imagen – Vista general del flujo  
-*(Insertar aquí una captura del canvas de Pentaho mostrando toda la transformación conectada)*
-
----
+<img width="687" height="262" alt="Foto1" src="https://github.com/user-attachments/assets/1fe0575b-cd12-41b1-933b-ca0a07e8684a" />
 
 ## 🔹 3. Fuente de datos
 
@@ -44,9 +42,8 @@ Este paso se encarga de la **lectura del archivo CSV**, interpretando su estruct
 ---
 
 ## 🖼️ Espacio para imagen – Configuración de CSV Input  
-*(Insertar captura de la configuración del step “CSV file input”)*
+<img width="830" height="658" alt="Foto2" src="https://github.com/user-attachments/assets/89fb8a94-149e-4d6f-9cb1-986980f2d683" />
 
----
 
 ## 🔹 4. Transformaciones de datos
 
@@ -60,7 +57,8 @@ Este paso realiza la **eliminación de espacios en blanco al inicio y al final d
 ---
 
 ## 🖼️ Espacio para imagen – Configuración de String Operations  
-*(Insertar captura del step con opción TRIM activada)*
+
+<img width="1313" height="421" alt="Foto3" src="https://github.com/user-attachments/assets/eb21f18c-25bf-44d7-a0e0-594a5d62fbac" />
 
 ---
 
@@ -72,12 +70,7 @@ Permite la **sustitución de caracteres dentro de una cadena**, en este caso eli
 - Limpieza interna del texto
 - Corrección de formato
 
----
 
-## 🖼️ Espacio para imagen – Configuración de Replace in String  
-*(Insertar captura del step mostrando el reemplazo de espacios)*
-
----
 
 ## 🔹 5. Flujo de ejecución
 
@@ -93,10 +86,9 @@ Replace in String (eliminación de espacios)
 
 ---
 
-## 🖼️ Espacio para imagen – Ejecución del flujo  
-*(Insertar captura del preview o ejecución en Pentaho con filas procesadas)*
 
----
+<img width="761" height="319" alt="Foto4" src="https://github.com/user-attachments/assets/5baaef88-1c24-4dab-9ecf-3251a8b67e0f" />
+
 
 ## 🔹 6. Resultado del proceso
 
